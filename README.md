@@ -7,7 +7,7 @@ Insertion sort is a simple sorting algorithm that works similar to the way you s
 <br>
 ![insertion-sort-geeksforgeeks](https://user-images.githubusercontent.com/124968304/234182613-3da3983e-d867-42b0-9173-94ae899a1afb.gif)<br>
 <br>
-<b><ins>Pseudo Code of Insertion Sort</b></ins>
+<b><ins>Pseudo Code of Insertion Sort</b></ins><br>
 procedure insertionSort(A: list of sortable items)<br>
    n = length(A)<br>
    for i = 1 to n - 1 do<br>
