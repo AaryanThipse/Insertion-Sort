@@ -1,6 +1,6 @@
 # Insertion-Sort<br>
 Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.<br>
-# Characteristics of Insertion Sort:><br>
+# Characteristics of Insertion Sort:<br>
 1.This algorithm is one of the simplest algorithm with simple implementation<br>
 2.Basically, Insertion sort is efficient for small data values<br>
 3.Insertion sort is adaptive in nature, i.e. it is appropriate for data sets which are already partially sorted.<br>
@@ -30,6 +30,9 @@ This algorithm sorts an array of items by repeatedly taking an element from the 
 7.The outer for loop continues iterating through the array until all elements are in their correct positions and the array is fully sorted.<br>
 <br>
 <b><ins>Output</b></ins>
+<img width="923" alt="insertion sort" src="https://user-images.githubusercontent.com/124968304/234183983-39732f3e-6747-41ee-b69d-52cdaf57d160.png">
+
+
 
 
 
